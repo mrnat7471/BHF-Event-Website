@@ -15,7 +15,7 @@
                         <p>Started in January 2019 supporting British Heart Foundation, 
                         we travelled all across europe for over 12 hours and we are
                         doing it again for the second time this year!</p>
-                        <div style="text-align: center;">
+                        <div style="text-align: center; padding-bottom: 30px;">
                         <a href="#" class="button2" >About Us</a>
                     </div>
                 </div>

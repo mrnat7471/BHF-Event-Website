@@ -22,4 +22,8 @@ Change Commits:
 - Fixed Colour on Scroll for Navbar
 - Cleaned up Code
 
+0.1.1.4
+- Changes to Style of Mobile Navbar
+- Changes to Mobile Styling of About Us/Charity Home Page
+
 
