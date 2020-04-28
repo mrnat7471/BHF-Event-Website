@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    min-height: 110vh;
+    font-family: 'Roboto', sans-serif;
+    background-color: #aeaeae;
+}
+
+
+
+.image {
+    background: url('./img/homeback.png');
+    background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    height: 400px;
+}
+.imagetext {
+    padding-top: 200px;
+    text-align: center;
+    color: white;
+}
+#history {
+    padding-top: 40px;
+}
+
+#charity {
+    padding-top: 40px;
+}
+#team {
+    padding-top: 40px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.avatarimg {
+    border-radius: 50%;
+    height: 100px;
+}
