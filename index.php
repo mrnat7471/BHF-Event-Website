@@ -55,7 +55,7 @@
     </div>
     <div class="col-sm">
     <img src="./img/flaming.png" alt="Avatar" class="avatarimg"><br>
-      Vexus<br>
+      Flaming<br>
       Event Organisers
     </div>
   </div>

@@ -36,45 +36,45 @@
 }
 
 .navbar .nav-link {
-    color: #fff;
+    color: #ffffff;
 }
 
 .navbar .nav-link:hover,
 .navbar .nav-link:focus {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
 }
 
 .navbar .navbar-brand {
-    color: #fff;
+    color: #ffffff;
 }
 
 
 /* Change navbar styling on scroll */
 .navbar.active {
-    background: #fff;
+    background: #555555;
     box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.1);
 }
 
 .navbar.active .nav-link {
-    color: #555;
+    color: #FFFFFF;
 }
 
 .navbar.active .nav-link:hover,
 .navbar.active .nav-link:focus {
-    color: #555;
+    color: #555555;
     text-decoration: none;
 }
 
 .navbar.active .navbar-brand {
-    color: #555;
+    color: #555555;
 }
 
 
 /* Change navbar styling on small viewports */
 @media (max-width: 991.98px) {
     .navbar {
-        background: #fff;
+        background: #555555;
     }
 
     .navbar .navbar-brand, .navbar .nav-link {
@@ -82,15 +82,8 @@
     }
 }
 </style>
-<script>
-$(function () {
-    $(window).on('scroll', function () {
-        if ( $(window).scrollTop() > 10 ) {
-            $('.navbar').addClass('active');
-        } else {
-            $('.navbar').removeClass('active');
-        }
-    });
-});
-</script>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></script>
+    <script src="./Templates/navbar.js"></script>
 </html>
