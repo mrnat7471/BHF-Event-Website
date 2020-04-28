@@ -45,7 +45,7 @@
         </div>
         </div>    
         <!-- Event Information End -->
-        <div class="team2"
+        <div class="team2">
             <div class="container" id="team">
                 <h2>Our Management Team</h2>
                 <div class="row">

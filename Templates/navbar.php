@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href= "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./main.css">
-
+    <link rel="icon" type="image/jpeg" src="./img/icon.jpg">
     <title>BHF Event</title>
   </head>
 
@@ -22,8 +22,8 @@
                     <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
                     <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">About</a></li>
                     <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Route</a></li>
+                    <li class="nav-item"><a href="truckfest.php" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
+                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
                 </ul>
             </div>
         </div>
