@@ -1,3 +1,4 @@
+<div class="footer_back">
 <footer class="page-footer font-small blue pt-4">
 
                     <!-- Footer Links -->
@@ -79,9 +80,13 @@
                     <!-- Copyright -->
                   
                   </footer>
+</div>
                   <style>
                       footer {
                           padding-left: 20%;
                           padding-right: 20%;
+                      }
+                      .footer_back {
+                        background-color: #d3d3d3;
                       }
                     </style>

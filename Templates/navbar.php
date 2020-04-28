@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href= "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./main.css">
 
     <title>BHF Event</title>
@@ -15,7 +15,7 @@
   <header class="header">
     <nav class="navbar navbar-expand-lg fixed-top py-3">
         <div class="container"><a href="#" class="navbar-brand text-uppercase font-weight-bold"><img src="./img/logo.png" alt="BHF" height="42"></a>
-            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+            <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><img src="./img/menu-icon.png" alt="Icon" height="48px"></button>
             
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
@@ -62,12 +62,12 @@
 
 .navbar.active .nav-link:hover,
 .navbar.active .nav-link:focus {
-    color: #555555;
+    color: #FFFFFF;
     text-decoration: none;
 }
 
 .navbar.active .navbar-brand {
-    color: #555555;
+    color: #FFFFFF;
 }
 
 
@@ -78,12 +78,18 @@
     }
 
     .navbar .navbar-brand, .navbar .nav-link {
-        color: #555;
+        color: #FFFFFF;
     }
 }
 </style>
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.bundle.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></script>
+<script src= 
+"https://code.jquery.com/jquery-3.2.1.slim.min.js"> 
+  </script> 
+    <script src= 
+"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"> 
+  </script> 
+    <script src= 
+"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"> 
+  </script> 
     <script src="./Templates/navbar.js"></script>
 </html>
