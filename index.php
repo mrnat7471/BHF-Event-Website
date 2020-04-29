@@ -36,7 +36,7 @@
                     who were concerned about the increasing death rate from cardiovascular disease. They 
                     wanted to fund extra research into the causes, diagnosis, treatment, and prevention of 
                     heart and circulatory diseases.<br>
-                    This charity means alot to me as I lost a family member in April 2019 due to a heart issue.</p>
+                    "This charity means alot to me as I lost a family member in April 2019 due to a heart issue." - Vexus</p>
                     <div style="text-align: center;">
                     <a href="#" class="button2">Learn More</a>
                 </div>

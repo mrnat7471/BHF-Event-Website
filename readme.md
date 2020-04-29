@@ -27,4 +27,8 @@ Truckfest Page: [Nathan7471]
 Errors:
 - No Truckfest Booking Form
 
+0.1.1.6
+- Created Gallery Page [Nathan7471]
+- Created Routes Page [Nathan7471]
+
 

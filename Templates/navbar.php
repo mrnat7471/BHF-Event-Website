@@ -19,11 +19,11 @@
             
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">About</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
+                    <li class="nav-item active"><a href="index.php" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a href="about.php" class="nav-link text-uppercase font-weight-bold">About</a></li>
+                    <li class="nav-item"><a href="gallery.php" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
                     <li class="nav-item"><a href="truckfest.php" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
+                    <li class="nav-item"><a href="routes.php" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
                 </ul>
             </div>
         </div>

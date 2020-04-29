@@ -27,16 +27,16 @@
                   
                           <ul class="list-unstyled">
                             <li>
-                              <a href="#!">Home</a>
+                              <a href="index.php">Home</a>
                             </li>
                             <li>
-                              <a href="#!">Routes</a>
+                              <a href="routes.php">Routes</a>
                             </li>
                             <li>
-                              <a href="#!">Truckfest</a>
+                              <a href="truckfest.php">Truckfest</a>
                             </li>
                             <li>
-                              <a href="#!">About</a>
+                              <a href="about.php">About</a>
                             </li>
                           </ul>
                   
@@ -60,7 +60,7 @@
                               <a href="#!">Donate</a>
                             </li>
                             <li>
-                              <a href="#!">Staff Panel</a>
+                              <a href="https://staff.bhfevent.xyz">Staff Panel</a>
                             </li>
                           </ul>
                   
@@ -75,7 +75,7 @@
                   
                     <!-- Copyright -->
                     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-                      <a href="https://nathan7471.xyz">Nathan7471</a> & <a href="#">Arran H</a> Licensed by BHF Events
+                      <a href="https://nathan7471.xyz">Nathan7471</a> & <a href="https://thisisarran.me/">Arran H</a> Licensed by BHF Events
                     </div>
                     <!-- Copyright -->
                   

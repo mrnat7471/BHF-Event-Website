@@ -11,14 +11,15 @@
             <div class="row">
                 <div class="col-sm" id="tinfo2">
                     <h2 style="text-align: center;">Truckfest Information</h2>
-                    <p>Date - ADD DATE HERE<br>
-                        Start Time - START TIME HERE<br>
-                        End Time - END TIME HERE<br>
-                        Location - ADD LOCATION HERE<br></p>
+                    <p>Date - 25th July 2020<br>
+                        Start Time - 12pm BST<br>
+                        End Time - 1pm BST<br>
+                        Location - Frankfurt, City<br></p>
                         <h3 style="text-align: center;">Truckfest Awards/Prizes</h3>
-                        <p> ADD AWARD HERE - ADD PRIZE HERE<br>
-                        ADD AWARD HERE - ADD PRIZE HERE<br>
-                        ADD AWARD HERE - ADD PRIZE HERE<br>
+                        <p> Best VTC Turnout - TBD<br>
+                        Best VTC Formation - TBD<br>
+                        Best VTC Livery - TBD<br>
+                        Best Public Truck - TBD
                         </p>
                     <div style="text-align: center; padding-bottom: 30px;">
                     <a href="#" class="button2" >Book a Slot</a>
