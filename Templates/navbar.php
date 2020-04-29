@@ -23,18 +23,18 @@
 
   <header class="header">
     <nav class="navbar navbar-expand-lg fixed-top py-3">
-        <div class="container"><a href="index.php" class="navbar-brand text-uppercase font-weight-bold"><img src="./img/logo.png" alt="BHF" height="42"></a>
+        <div class="container"><a href="home" class="navbar-brand text-uppercase font-weight-bold"><img src="./img/logo.png" alt="BHF" height="42"></a>
             <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><img src="./img/menu-icon.png" alt="Icon" height="38px"></button>
             
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="index.php" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
-                    <li class="nav-item"><a href="about.php" class="nav-link text-uppercase font-weight-bold">About</a></li>
-                    <li class="nav-item"><a href="gallery.php" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
-                    <li class="nav-item"><a href="truckfest.php" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
-                    <li class="nav-item"><a href="routes.php" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
-                    <li class="nav-item"><a href="streamers.php" class="nav-link text-uppercase font-weight-bold">Streamers</a></li>
-                    <li class="nav-item"><a href="donate.php" class="nav-link text-uppercase font-weight-bold">Donate</a></li>
+                    <li class="nav-item active"><a href="home" class="nav-link text-uppercase font-weight-bold">Home <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a href="about" class="nav-link text-uppercase font-weight-bold">About</a></li>
+                    <li class="nav-item"><a href="gallery" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
+                    <li class="nav-item"><a href="truckfest" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
+                    <li class="nav-item"><a href="routes" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
+                    <li class="nav-item"><a href="streamers" class="nav-link text-uppercase font-weight-bold">Streamers</a></li>
+                    <li class="nav-item"><a href="donate" class="nav-link text-uppercase font-weight-bold">Donate</a></li>
                 </ul>
             </div>
         </div>

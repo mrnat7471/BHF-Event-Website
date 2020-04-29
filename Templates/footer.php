@@ -30,16 +30,16 @@
                   
                           <ul class="list-unstyled">
                             <li>
-                              <a href="index.php">Home</a>
+                              <a href="index">Home</a>
                             </li>
                             <li>
-                              <a href="routes.php">Routes</a>
+                              <a href="routes">Routes</a>
                             </li>
                             <li>
-                              <a href="truckfest.php">Truckfest</a>
+                              <a href="truckfest">Truckfest</a>
                             </li>
                             <li>
-                              <a href="about.php">About</a>
+                              <a href="about">About</a>
                             </li>
                           </ul>
                   
@@ -54,13 +54,13 @@
                   
                           <ul class="list-unstyled">
                             <li>
-                              <a href="streamers.php">Official Streamers</a>
+                              <a href="streamers">Official Streamers</a>
                             </li>
                             <li>
-                              <a href="recruitment.php">Recruitment</a>
+                              <a href="recruitment">Recruitment</a>
                             </li>
                             <li>
-                              <a href="donate.php">Donate</a>
+                              <a href="donate">Donate</a>
                             </li>
                             <li>
                               <a href="https://staff.bhfevent.xyz">Staff Panel</a>
