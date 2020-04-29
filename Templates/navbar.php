@@ -4,6 +4,12 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="og:site_name" content="The BHF Event ">
+    <meta name="og:type" content="object">
+    <meta name="og:image" content="./img/logo.png">
+    <meta name="og:title" content="Home - BHF Event">
+    <meta name="theme-color" content="#d30606">
+    <meta name="og:description" content="On July 25th 2020, we will be hosting a TruckersMP convoy. This convoy is in aid of The British Heart Foundation.">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href= "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
@@ -11,6 +17,8 @@
     <link rel="icon" href="./img/icon.jpg">
     <script src="https://kit.fontawesome.com/815867a4eb.js" crossorigin="anonymous"></script>
     <title>BHF Event</title>
+
+
   </head>
 
   <header class="header">

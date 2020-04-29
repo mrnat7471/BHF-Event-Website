@@ -142,7 +142,7 @@
                 </div>
                 <div class="col">
                 <br>Slot 15<br>
-                Valtox logistics
+                Valtox Logistics
                 </div>
                 <div class="col">
                 <br>Slot 16<br>

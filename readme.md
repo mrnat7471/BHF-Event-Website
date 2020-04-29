@@ -38,3 +38,7 @@ Errors:
 - Created Recruitment [Nathan7471]
 - Added Social Media Icons on Footer [Nathan7471]
 
+1.0.0.1 
+- Updated Truckfest
+- Added Meta
+
