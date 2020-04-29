@@ -14,7 +14,7 @@
 
   <header class="header">
     <nav class="navbar navbar-expand-lg fixed-top py-3">
-        <div class="container"><a href="#" class="navbar-brand text-uppercase font-weight-bold"><img src="./img/logo.png" alt="BHF" height="42"></a>
+        <div class="container"><a href="index.php" class="navbar-brand text-uppercase font-weight-bold"><img src="./img/logo.png" alt="BHF" height="42"></a>
             <button type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><img src="./img/menu-icon.png" alt="Icon" height="38px"></button>
             
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
