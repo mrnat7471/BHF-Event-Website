@@ -9,7 +9,7 @@
     <meta name="og:image" content="./img/logo.png">
     <meta name="og:title" content="Home - BHF Event">
     <meta name="theme-color" content="#d30606">
-    <meta name="og:description" content="On July 25th 2020, we will be hosting a TruckersMP convoy. This convoy is in aid of The British Heart Foundation.">
+    <meta name="og:description" content="On July 25th 2020, we will be hosting a Unofficial TruckersMP convoy. This convoy is in aid of The British Heart Foundation.">
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href= "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">

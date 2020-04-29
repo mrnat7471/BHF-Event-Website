@@ -22,7 +22,7 @@
                         Best Public Truck - TBD
                         </p>
                     <div style="text-align: center; padding-bottom: 30px;">
-                    <a href="#" class="button2" >Book a Slot</a>
+                    <a href="#" class="button2" >Slots are Full</a>
                 </div>
             </div>
                 <div class="col-sm">
@@ -134,7 +134,7 @@
                 <div class="row justify-content-between">
                 <div class="col">
                 <br>Slot 13<br>
-                ATGlobal L
+                ATGlobal
                 </div>
                 <div class="col">
                 <br>Slot 14<br>

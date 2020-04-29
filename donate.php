@@ -33,8 +33,8 @@
                 </div>
                 <div class="col-sm" id="charity2" style="text-align: center;">
                     <h2 style="text-align: center;">Donation</h2>
-                    <p>You will like to donate?<br>
-                    well hit the donate button below</p>
+                    <p>Would you like to donate?<br>
+                    well hit the donate button below:</p>
                     <div style="padding-left: 15%;">
                         <div id="jg-widget-thebhfevent-385"></div><script>(function(){var id="jg-widget-thebhfevent-385",doc=document,pfx=(window.location.toString().indexOf("https")==0)?"https":"http";var el=doc.getElementById(id);if(el){var js=doc.createElement('script');js.src=pfx+"://widgets.justgiving.com/fundraisingpage/thebhfevent?enc=ZT1qZy13aWRnZXQtdGhlYmhmZXZlbnQtMzg1Jnc9NDAwJmI9aW5uZXIsZG9uYXRlJmliPXByb2dyZXNzLHJhaXNlZCx0YXJnZXQ%3D";el.parentNode.insertBefore(js, el);}})();</script>
                     </div>
