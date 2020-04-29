@@ -13,6 +13,9 @@
                           <!-- Content -->
                           <h5 class="text-uppercase">BHF Event</h5>
                           <p>An TruckersMP Euro Truck Simulator 2 12 hour Convoy supporting British Heart Foundation</p>
+                          <a href="https://discord.gg/REamgFE" target="_blank"><i id="icon" class="fab fa-2x fa-discord"></i></a>
+                          <a href="https://twitter.com/BhfConvoy" target="_blank"><i id="icon" class="fab fa-2x fa-twitter"></i></a>
+                          <a href="https://www.twitch.tv/bhfevent" target="_blank"><i id="icon" class="fab fa-2x fa-twitch"></i></a>
                   
                         </div>
                         <!-- Grid column -->
@@ -51,13 +54,13 @@
                   
                           <ul class="list-unstyled">
                             <li>
-                              <a href="#!">Offical Streamers</a>
+                              <a href="streamers.php">Official Streamers</a>
                             </li>
                             <li>
-                              <a href="#!">Recruitment</a>
+                              <a href="recruitment.php">Recruitment</a>
                             </li>
                             <li>
-                              <a href="#!">Donate</a>
+                              <a href="donate.php">Donate</a>
                             </li>
                             <li>
                               <a href="https://staff.bhfevent.xyz">Staff Panel</a>

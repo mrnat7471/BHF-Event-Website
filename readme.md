@@ -31,4 +31,10 @@ Errors:
 - Created Gallery Page [Nathan7471]
 - Created Routes Page [Nathan7471]
 
+1.0.0.0
+- Created Streamers Page [Nathan7471]
+- Fixed Icon [Nathan7471]
+- Created Donate [Nathan7471]
+- Created Recruitment [Nathan7471]
+- Added Social Media Icons on Footer [Nathan7471]
 

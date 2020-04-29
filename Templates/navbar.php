@@ -8,7 +8,8 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href= "https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="./main.css">
-    <link rel="icon" type="image/jpeg" src="./img/icon.jpg">
+    <link rel="icon" href="./img/icon.jpg">
+    <script src="https://kit.fontawesome.com/815867a4eb.js" crossorigin="anonymous"></script>
     <title>BHF Event</title>
   </head>
 
@@ -24,6 +25,8 @@
                     <li class="nav-item"><a href="gallery.php" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
                     <li class="nav-item"><a href="truckfest.php" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
                     <li class="nav-item"><a href="routes.php" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
+                    <li class="nav-item"><a href="streamers.php" class="nav-link text-uppercase font-weight-bold">Streamers</a></li>
+                    <li class="nav-item"><a href="donate.php" class="nav-link text-uppercase font-weight-bold">Donate</a></li>
                 </ul>
             </div>
         </div>
