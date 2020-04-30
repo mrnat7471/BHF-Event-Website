@@ -9,10 +9,14 @@
         <div class="our_Twitch">
             <h1>Our Official Twitch Channel</h1>
             <!-- Add a placeholder for the Twitch embed -->
-            <div id="twitch-embed"></div>
+            <iframe
+                            src="https://player.twitch.tv/?channel=bhfevent&parent=streamernews.example.com&muted=true"
+                            height="240"
+                            width="426"
+                            frameborder="0"
+                            scrolling="no"
+                            allowfullscreen="true"></iframe>
         </div>
-
-
         </div>
             <div class="partned_Streamers">
                 <h2>Our Partnered Streamers</h2>
@@ -56,18 +60,5 @@
 
     <?php include("./Templates/footer.php") ?>
     </body>
-    
-            <!-- Load the Twitch embed script -->
-            <script src="https://embed.twitch.tv/embed/v1.js"></script>
 
-            <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
-            <script type="text/javascript">
-            new Twitch.Embed("twitch-embed", {
-                width: 1100,
-                height: 480,
-                channel: "bhfevent",
-                // only needed if your site is also embedded on embed.example.com and othersite.example.com 
-                parent: ["embed.example.com", "othersite.example.com"]
-            });
-            </script>
 </html>
