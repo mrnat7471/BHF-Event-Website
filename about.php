@@ -13,7 +13,10 @@
                     <h2 style="text-align: center;">About the Event</h2>
                     <p><br>Started back in January 2020 founded by Vexus. 12 hours of convoy in aid of British Heart Foundation<br>
                     On July 25th 2020, we will be hosting a TruckersMP convoy. Again in aid of The British Heart Foundation.<br>
-                    This charity is a major funder and authority in cardiovascular research.</p>
+                    This charity is a major funder and authority in cardiovascular research.<br></p>
+					<a href="https://ets2c.com/view/84872/vexus-frankfurt-hotel" class="button2">Ets2c</a>
+					<a href="https://truckersmp.com/event-request/387" class="button2">TMP Event Request</a>
+					<a href="https://forum.truckersmp.com/index.php?/topic/93188-25th-july-2020-the-bhf-event/" class="button2">TMP Forums</a>
             </div>
                 <div class="col-sm">
                     <img src="./img/truckinfo.png" alt="Trucks" width="90%" class="Truckinfo_image">
