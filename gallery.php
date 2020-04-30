@@ -12,7 +12,7 @@
         <div class="text_header">
             <h1>January 2020</h1>
             <p>Photos and Videos from January 2020</p>
-            <iframe style="max-width:560;max-height:315;" src="https://www.youtube.com/embed/UxJMWbB8nFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="560"height="315;" src="https://www.youtube.com/embed/UxJMWbB8nFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
 
             <!-- Photo Grid -->
