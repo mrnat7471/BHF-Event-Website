@@ -77,7 +77,18 @@
                     <!-- Footer Links -->
                   
                     <!-- Copyright -->
-                    <div class="footer-copyright text-center py-3">© 2020 Copyright:
+                    <div class="footer-copyright text-center py-3">© 
+                    <?php 
+                    
+                    // Auto Copyright Year
+
+                    if(date("Y") == "2020"){
+                      echo date("Y");
+                    }else{
+                      echo "2020 - ".date("Y");
+                    }; 
+                    
+                    ?> Copyright:
                       <a href="https://nathan7471.xyz">Nathan7471</a> & <a href="https://thisisarran.me/">Arran H</a> Licensed by BHF Events
                     </div>
                     <!-- Copyright -->
