@@ -16,7 +16,7 @@
                         we travelled all across europe for over 12 hours and we are
                         doing it again for the second time this year!</p>
                         <div style="text-align: center; padding-bottom: 30px;">
-                        <a href="#" class="button2" >About Us</a>
+                        <a href="/about" class="button2" >About Us</a>
                     </div>
                 </div>
                 <div class="col-sm">
@@ -38,7 +38,7 @@
                     heart and circulatory diseases.<br>
                     "This charity means alot to me as I lost a family member in April 2019 due to a heart issue." - Vexus</p>
                     <div style="text-align: center;">
-                    <a href="#" class="button2">Learn More</a>
+                    <a href="https://bhf.org.uk/" target="_blank" class="button2">Learn More</a>
                 </div>
             </div>
         </div>
