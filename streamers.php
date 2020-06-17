@@ -10,7 +10,7 @@
             <h1>Our Official Twitch Channel</h1>
             <!-- Add a placeholder for the Twitch embed -->
             <iframe
-                            src="https://player.twitch.tv/?channel=bhfevent&parent=streamernews.example.com&muted=true"
+                            src="https://player.twitch.tv/?channel=bhfevent&parent=bhf_public.test&muted=true"
                             height="240"
                             width="426"
                             frameborder="0"
@@ -24,7 +24,7 @@
                     <div class="row">
                         <div class="col-sm">
                             <p>Nathan7471</p>
-                            <iframe
+                        <iframe
                             src="https://player.twitch.tv/?channel=nathan7471&parent=streamernews.example.com&muted=true"
                             height="240"
                             width="426"
