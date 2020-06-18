@@ -181,7 +181,7 @@
 .close {
   color: white;
   position: absolute;
-  top: 10px;
+  top: 65px;
   right: 25px;
   font-size: 35px;
   font-weight: bold;
