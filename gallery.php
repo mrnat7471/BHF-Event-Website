@@ -18,6 +18,10 @@
             <!-- Photo Grid -->
             <div class="row"> 
             <div class="column">
+                <img src="./img/gallery/1.png" style="width:100%">
+                <img src="./img/gallery/2.png" style="width:100%">
+                <img src="./img/gallery/3.png" style="width:100%">
+                <img src="./img/gallery/4.png" style="width:100%">
                 <img src="./img/gallery/5.png" style="width:100%">
                 <img src="./img/gallery/6.png" style="width:100%">
                 <img src="./img/gallery/7.png" style="width:100%">
@@ -48,50 +52,63 @@
         </div>
         </div>
 
+        <!-- Grid row -->
+<div class="row">
 
-        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-dialog" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">×</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        
-      <!-- Carousel markup: https://getbootstrap.com/docs/4.4/components/carousel/ -->
-      <div id="carouselExample" class="carousel slide" data-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-              <img class="d-block w-100" src="./img/gallery/1.png">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="./img/gallery/2.png">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="./img/gallery/3.png">
-            </div>
-            <div class="carousel-item">
-              <img class="d-block w-100" src="./img/gallery/4.png">
-            </div>
-          </div>
-          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-          </a>
-          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-          </a>
-        </div>
-      </div>
+<!-- Grid column -->
+<div class="col-md-12 d-flex justify-content-center mb-5">
 
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
-    </div>
-  </div>
+  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="all">All</button>
+  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="1">Mountains</button>
+  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="2">Sea</button>
+
 </div>
+<!-- Grid column -->
+
+</div>
+<!-- Grid row -->
+
+<!-- Grid row -->
+<div class="gallery" id="gallery">
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 2">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(73).jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 1">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain1.jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 1">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain2.jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 2">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 2">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+<!-- Grid column -->
+<div class="mb-3 pics animation all 1">
+  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain3.jpg" alt="Card image cap">
+</div>
+<!-- Grid column -->
+
+</div>
+<!-- Grid row -->
 
         
     <?php include("./Templates/footer.php") ?>
@@ -126,37 +143,52 @@
       text-align: center;
   }
 
-  $bootstrap-sm: 576px;
-$bootstrap-md: 768px;
-$bootstrap-lg: 992px;
-$bootstrap-xl: 1200px;
+  .gallery {
+-webkit-column-count: 3;
+-moz-column-count: 3;
+column-count: 3;
+-webkit-column-width: 33%;
+-moz-column-width: 33%;
+column-width: 33%; }
+.gallery .pics {
+-webkit-transition: all 350ms ease;
+transition: all 350ms ease; }
+.gallery .animation {
+-webkit-transform: scale(1);
+-ms-transform: scale(1);
+transform: scale(1); }
 
-// Crop thumbnail images.
-#gallery {
-  img {
-    height: 75vw;
-    object-fit: cover;
-    
-    @media (min-width: $bootstrap-sm) {
-      height: 35vw;
-    }
-    
-    @media (min-width: $bootstrap-lg) {
-      height: 18vw;
-    }
-  }
+@media (max-width: 450px) {
+.gallery {
+-webkit-column-count: 1;
+-moz-column-count: 1;
+column-count: 1;
+-webkit-column-width: 100%;
+-moz-column-width: 100%;
+column-width: 100%;
+}
 }
 
-// Crop images in the coursel
-.carousel-item {
-  img {
-    height: 60vw;
-    object-fit: cover;
-    
-    @media (min-width: $bootstrap-sm) {
-      height: 350px;
-    }
-  }
+@media (max-width: 400px) {
+.btn.filter {
+padding-left: 1.1rem;
+padding-right: 1.1rem;
+}
 }
   </style>
+
+  <script>
+      $(function() {
+var selectedClass = "";
+$(".filter").click(function(){
+selectedClass = $(this).attr("data-rel");
+$("#gallery").fadeTo(100, 0.1);
+$("#gallery div").not("."+selectedClass).fadeOut().removeClass('animation');
+setTimeout(function() {
+$("."+selectedClass).fadeIn().addClass('animation');
+$("#gallery").fadeTo(300, 1);
+}, 300);
+});
+});
+</script>
 </html>
