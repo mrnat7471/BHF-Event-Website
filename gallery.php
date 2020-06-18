@@ -51,64 +51,74 @@
             </div>
         </div>
         </div>
-
-        <!-- Grid row -->
+         <!-- Images used to open the lightbox -->
 <div class="row">
-
-<!-- Grid column -->
-<div class="col-md-12 d-flex justify-content-center mb-5">
-
-  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="all">All</button>
-  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="1">Mountains</button>
-  <button type="button" class="btn btn-outline-black waves-effect filter" data-rel="2">Sea</button>
-
+  <div class="column">
+    <img src="./img/gallery/1.png" onclick="openModal();currentSlide(1)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="./img/gallery/2.png" onclick="openModal();currentSlide(2)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="./img/gallery/3.png" onclick="openModal();currentSlide(3)" class="hover-shadow">
+  </div>
+  <div class="column">
+    <img src="./img/gallery/4.png" onclick="openModal();currentSlide(4)" class="hover-shadow">
+  </div>
 </div>
-<!-- Grid column -->
 
-</div>
-<!-- Grid row -->
+<!-- The Modal/Lightbox -->
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
 
-<!-- Grid row -->
-<div class="gallery" id="gallery">
+    <div class="mySlides">
+      <div class="numbertext">1 / 4</div>
+      <img src="./img/gallery/1.png" style="width:100%">
+    </div>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 2">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(73).jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <div class="mySlides">
+      <div class="numbertext">2 / 4</div>
+      <img src="./img/gallery/2.png" style="width:100%">
+    </div>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 1">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain1.jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <div class="mySlides">
+      <div class="numbertext">3 / 4</div>
+      <img src="./img/gallery/3.png" style="width:100%">
+    </div>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 1">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain2.jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <div class="mySlides">
+      <div class="numbertext">4 / 4</div>
+      <img src="./img/gallery/4.png" style="width:100%">
+    </div>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 2">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(35).jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <!-- Next/previous controls -->
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 2">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Horizontal/Nature/4-col/img%20(18).jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <!-- Caption text -->
+    <div class="caption-container">
+      <p id="caption"></p>
+    </div>
 
-<!-- Grid column -->
-<div class="mb-3 pics animation all 1">
-  <img class="img-fluid" src="https://mdbootstrap.com/img/Photos/Vertical/mountain3.jpg" alt="Card image cap">
-</div>
-<!-- Grid column -->
+    <!-- Thumbnail image controls -->
+    <div class="column">
+      <img class="demo" src="img1.jpg" onclick="currentSlide(1)" alt="Nature">
+    </div>
 
-</div>
-<!-- Grid row -->
+    <div class="column">
+      <img class="demo" src="img2.jpg" onclick="currentSlide(2)" alt="Snow">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img3.jpg" onclick="currentSlide(3)" alt="Mountains">
+    </div>
+
+    <div class="column">
+      <img class="demo" src="img4.jpg" onclick="currentSlide(4)" alt="Lights">
+    </div>
+  </div>
+</div> 
 
         
     <?php include("./Templates/footer.php") ?>
@@ -142,53 +152,5 @@
   .text_header {
       text-align: center;
   }
-
-  .gallery {
--webkit-column-count: 3;
--moz-column-count: 3;
-column-count: 3;
--webkit-column-width: 33%;
--moz-column-width: 33%;
-column-width: 33%; }
-.gallery .pics {
--webkit-transition: all 350ms ease;
-transition: all 350ms ease; }
-.gallery .animation {
--webkit-transform: scale(1);
--ms-transform: scale(1);
-transform: scale(1); }
-
-@media (max-width: 450px) {
-.gallery {
--webkit-column-count: 1;
--moz-column-count: 1;
-column-count: 1;
--webkit-column-width: 100%;
--moz-column-width: 100%;
-column-width: 100%;
-}
-}
-
-@media (max-width: 400px) {
-.btn.filter {
-padding-left: 1.1rem;
-padding-right: 1.1rem;
-}
-}
   </style>
-
-  <script>
-      $(function() {
-var selectedClass = "";
-$(".filter").click(function(){
-selectedClass = $(this).attr("data-rel");
-$("#gallery").fadeTo(100, 0.1);
-$("#gallery div").not("."+selectedClass).fadeOut().removeClass('animation');
-setTimeout(function() {
-$("."+selectedClass).fadeIn().addClass('animation');
-$("#gallery").fadeTo(300, 1);
-}, 300);
-});
-});
-</script>
 </html>
