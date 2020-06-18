@@ -29,12 +29,6 @@
                 </div>
 
                 <img id="myImg" src="./img/gallery/2.png" style="width:100%">
-
-                <div id="myModal" class="modal">
-                    <span class="close">&times;</span>
-                    <img class="modal-content" id="img01">
-                </div>
-                
                 <img id="myImg" src="./img/gallery/3.png" style="width:100%">
                 <img id="myImg" src="./img/gallery/4.png" style="width:100%">
                 <img id="myImg" src="./img/gallery/5.png" style="width:100%">
@@ -138,7 +132,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 /* The Close Button */
 .close {
   position: absolute;
-  top: 65px;
+  top: 75px;
   right: 35px;
   color: #f1f1f1;
   font-size: 40px;
