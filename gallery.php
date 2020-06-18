@@ -100,23 +100,6 @@
     <div class="caption-container">
       <p id="caption"></p>
     </div>
-
-    <!-- Thumbnail image controls -->
-    <div class="column">
-      <img class="demo" src="img1.jpg" onclick="currentSlide(1)" alt="Nature">
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img2.jpg" onclick="currentSlide(2)" alt="Snow">
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img3.jpg" onclick="currentSlide(3)" alt="Mountains">
-    </div>
-
-    <div class="column">
-      <img class="demo" src="img4.jpg" onclick="currentSlide(4)" alt="Lights">
-    </div>
   </div>
 </div> 
 
