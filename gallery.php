@@ -126,7 +126,7 @@ body {font-family: Arial, Helvetica, sans-serif;}
 /* The Close Button */
 .close {
   position: absolute;
-  top: 15px;
+  top: 55px;
   right: 35px;
   color: #f1f1f1;
   font-size: 40px;
