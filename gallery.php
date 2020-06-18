@@ -22,7 +22,19 @@
             <div class="row"> 
             <div class="column">
                 <img id="myImg" src="./img/gallery/1.png" style="width:100%">
+
+                <div id="myModal" class="modal">
+                    <span class="close">&times;</span>
+                    <img class="modal-content" id="img01">
+                </div>
+
                 <img id="myImg" src="./img/gallery/2.png" style="width:100%">
+
+                <div id="myModal" class="modal">
+                    <span class="close">&times;</span>
+                    <img class="modal-content" id="img01">
+                </div>
+                
                 <img id="myImg" src="./img/gallery/3.png" style="width:100%">
                 <img id="myImg" src="./img/gallery/4.png" style="width:100%">
                 <img id="myImg" src="./img/gallery/5.png" style="width:100%">
