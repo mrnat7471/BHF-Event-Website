@@ -15,7 +15,7 @@
             <iframe width="560"height="315;" src="https://www.youtube.com/embed/UxJMWbB8nFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </div>
-<div style="text-align: center;">
+<div style="padding-right: 10%; !IMPORTANT">
   <div class="row">
     <div class="column">
       <img src="./img/gallery/1.png" onclick="openModal();currentSlide(1)" class="hover-shadow">
