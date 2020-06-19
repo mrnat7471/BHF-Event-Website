@@ -273,7 +273,7 @@
 .close {
   color: white;
   position: absolute;
-  top: 65px;
+  top: 75px;
   right: 25px;
   font-size: 35px;
   font-weight: bold;
