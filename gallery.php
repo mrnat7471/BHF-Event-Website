@@ -36,9 +36,6 @@
     <img src="./img/gallery/6.png" onclick="openModal();currentSlide(6)" class="hover-shadow">
   </div>
   <div class="column">
-    <img src="./img/gallery/8.png" onclick="openModal();currentSlide(8)" class="hover-shadow">
-  </div>
-  <div class="column">
     <img src="./img/gallery/9.png" onclick="openModal();currentSlide(9)" class="hover-shadow">
   </div>
   <div class="column">
@@ -79,11 +76,6 @@
     <div class="mySlides">
       <div class="numbertext">6 / 27</div>
       <img src="./img/gallery/6.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">8 / 27</div>
-      <img src="./img/gallery/8.png" style="width:100%">
     </div>
 
     <div class="mySlides">
