@@ -57,16 +57,7 @@
       <img src="./img/gallery/14.png" onclick="openModal();currentSlide(13)" class="hover-shadow">
     </div>
     <div class="column">
-      <img src="./img/gallery/15.png" onclick="openModal();currentSlide(14)" class="hover-shadow">
-    </div>
-    <div class="column">
       <img src="./img/gallery/16.png" onclick="openModal();currentSlide(15)" class="hover-shadow">
-    </div>
-    <div class="column">
-      <img src="./img/gallery/17.png" onclick="openModal();currentSlide(16)" class="hover-shadow">
-    </div>
-    <div class="column">
-      <img src="./img/gallery/18.png" onclick="openModal();currentSlide(17)" class="hover-shadow">
     </div>
     <div class="column">
       <img src="./img/gallery/19.png" onclick="openModal();currentSlide(18)" class="hover-shadow">
@@ -152,25 +143,12 @@
     </div>
 
     <div class="mySlides">
-      <img src="./img/gallery/14.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
       <img src="./img/gallery/15.png" style="width:100%">
     </div>
 
     <div class="mySlides">
       <img src="./img/gallery/16.png" style="width:100%">
     </div>
-
-    <div class="mySlides">
-      <img src="./img/gallery/17.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <img src="./img/gallery/18.png" style="width:100%">
-    </div>
-
     <div class="mySlides">
       <img src="./img/gallery/19.png" style="width:100%">
     </div>
