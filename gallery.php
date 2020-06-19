@@ -14,37 +14,6 @@
             <p>Photos and Videos from January 2020</p>
             <iframe width="560"height="315;" src="https://www.youtube.com/embed/UxJMWbB8nFs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
-
-            <!-- Photo Grid -->
-            <div class="row"> 
-            <div class="column">
-                <img src="./img/gallery/6.png" style="width:100%">
-                <img src="./img/gallery/7.png" style="width:100%">
-                <img src="./img/gallery/21.png" style="width:100%">
-                <img src="./img/gallery/22.png" style="width:100%">
-            </div>
-            <div class="column">
-                <img src="./img/gallery/8.png" style="width:100%">
-                <img src="./img/gallery/10.png" style="width:100%">
-                <img src="./img/gallery/11.png" style="width:100%">
-                <img src="./img/gallery/12.png" style="width:100%">
-                <img src="./img/gallery/13.png" style="width:100%">
-                <img src="./img/gallery/24.png" style="width:100%">
-                <img src="./img/gallery/25.png" style="width:100%">
-                <img src="./img/gallery/23.png" style="width:100%">
-            </div>  
-            <div class="column">
-                <img src="./img/gallery/14.png" style="width:100%">
-                <img src="./img/gallery/15.jpg" style="width:100%">
-                <img src="./img/gallery/16.png" style="width:100%">
-                <img src="./img/gallery/17.jpg" style="width:100%">
-                <img src="./img/gallery/18.jpg" style="width:100%">
-                <img src="./img/gallery/19.png" style="width:100%">
-                <img src="./img/gallery/20.png" style="width:100%">
-                <img src="./img/gallery/26.png" style="width:100%">
-                <img src="./img/gallery/27.png" style="width:100%">
-            </div>
-        </div>
         </div>
          <!-- Images used to open the lightbox -->
 <div class="row">
