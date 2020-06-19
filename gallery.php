@@ -142,9 +142,6 @@
       <img src="./img/gallery/13.png" style="width:100%">
     </div>
 
-    <div class="mySlides">
-      <img src="./img/gallery/15.png" style="width:100%">
-    </div>
 
     <div class="mySlides">
       <img src="./img/gallery/16.png" style="width:100%">
