@@ -80,22 +80,22 @@
 
     <div class="mySlides">
       <div class="numbertext">7 / 27</div>
-      <img src="./img/gallery/6.png" style="width:100%">
+      <img src="./img/gallery/7.png" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">8 / 27</div>
-      <img src="./img/gallery/6.png" style="width:100%">
+      <img src="./img/gallery/8.png" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">9 / 27</div>
-      <img src="./img/gallery/9.png" style="width:100%">
+      <img src="./img/gallery/10.png" style="width:100%">
     </div>
 
     <div class="mySlides">
       <div class="numbertext">10 / 27</div>
-      <img src="./img/gallery/10.png" style="width:100%">
+      <img src="./img/gallery/11.png" style="width:100%">
     </div>
 
     <!-- Next/previous controls -->
