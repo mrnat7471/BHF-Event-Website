@@ -44,48 +44,6 @@
   <div class="column">
     <img src="./img/gallery/10.png" onclick="openModal();currentSlide(10)" class="hover-shadow">
   </div>
-  <div class="column">
-    <img src="./img/gallery/11.png" onclick="openModal();currentSlide(11)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/12.png" onclick="openModal();currentSlide(12)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/13.png" onclick="openModal();currentSlide(13)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/14.png" onclick="openModal();currentSlide(14)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/16.png" onclick="openModal();currentSlide(16)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/19.png" onclick="openModal();currentSlide(19)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/20.png" onclick="openModal();currentSlide(20)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/21.png" onclick="openModal();currentSlide(21)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/22.png" onclick="openModal();currentSlide(22)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/23.png" onclick="openModal();currentSlide(23)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/24.png" onclick="openModal();currentSlide(24)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/25.png" onclick="openModal();currentSlide(25)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/26.png" onclick="openModal();currentSlide(26)" class="hover-shadow">
-  </div>
-  <div class="column">
-    <img src="./img/gallery/27.png" onclick="openModal();currentSlide(27)" class="hover-shadow">
-  </div>
 </div>
 
 <!-- The Modal/Lightbox -->
@@ -136,81 +94,6 @@
     <div class="mySlides">
       <div class="numbertext">10 / 27</div>
       <img src="./img/gallery/10.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">11 / 27</div>
-      <img src="./img/gallery/11.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">12 / 27</div>
-      <img src="./img/gallery/12.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">13 / 27</div>
-      <img src="./img/gallery/13.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">14 / 27</div>
-      <img src="./img/gallery/14.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">15 / 27</div>
-      <img src="./img/gallery/15.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">16 / 27</div>
-      <img src="./img/gallery/16.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">19 / 27</div>
-      <img src="./img/gallery/19.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">20 / 27</div>
-      <img src="./img/gallery/20.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">21 / 27</div>
-      <img src="./img/gallery/21.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">22 / 27</div>
-      <img src="./img/gallery/22.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">23 / 27</div>
-      <img src="./img/gallery/23.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">24 / 27</div>
-      <img src="./img/gallery/24.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">25 / 27</div>
-      <img src="./img/gallery/25.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">26 / 27</div>
-      <img src="./img/gallery/26.png" style="width:100%">
-    </div>
-
-    <div class="mySlides">
-      <div class="numbertext">27 / 27</div>
-      <img src="./img/gallery/27.png" style="width:100%">
     </div>
 
     <!-- Next/previous controls -->
