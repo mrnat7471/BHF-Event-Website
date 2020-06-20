@@ -12,15 +12,16 @@
                 <div class="row">
                     <div class="col-sm" id="history2">
                         <h2 style="text-align: center;">Who we are?</h2>
-                        <p>Started in January 2019 supporting British Heart Foundation, 
-                        we travelled all across europe for over 12 hours and we are
-                        doing it again for the second time this year!</p>
-                        <div style="text-align: center; padding-bottom: 30px;">
+                        <p>The BHF event started in January 2019 and it was founded by Vexus. It supports the British Heart Foundation.
+                        The event travelled all across europe for over 12 hours and we are
+                        doing it again for the second time this year! We post updates about the event on Discord and you can find all
+                        of the important information there.</p>
+                        <div style="text-align: center; padding-bottom: 50px;">
                         <a href="/about" class="button2" >About Us</a>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <img src="./img/history_home.png" alt="Trucks" width="90%" class="image2">
+                <div class="col-sm" style="height: 250px;">
+                <iframe src="https://discordapp.com/widget?id=587222649378308096&theme=light" width="100%" height="100%" allowtransparency="true" frameborder="0"></iframe>
                 </div>
             </div>
         </div>
