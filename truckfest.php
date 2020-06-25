@@ -16,10 +16,10 @@
                         End Time - 1pm BST<br>
                         Location - Frankfurt, City<br></p>
                         <h3 style="text-align: center;">Truckfest Awards/Prizes</h3>
-                        <p> Best VTC Turnout - TBD<br>
-                        Best VTC Formation - TBD<br>
-                        Best VTC Livery - TBD<br>
-                        Best Public Truck - TBD
+                        <p> Best VTC Turnout - Vive La France!<br>
+                        Best VTC Formation - Actros Tuning Pack<br>
+                        Best VTC Livery - Mighty Griffin Tuning Pack<br>
+                        Best Public Truck - Volvo (FH) Tuning Pack
                         </p>
                     <div style="text-align: center; padding-bottom: 30px;">
                     <a href="#" class="button2" >Slots are Full</a>
@@ -116,7 +116,7 @@
                 </div>
                 <div class="col">
                 <br>Slot 10<br>
-                LKW Transport
+                ProjectCargo 
                 </div>
                 <div class="col">
                 <br>Slot 11<br>
@@ -124,7 +124,7 @@
                 </div>
                 <div class="col">
                 <br>Slot 12<br>
-                Pries Logistics
+                Snail Transport
                 </div>
             </div>
         </div>
@@ -142,7 +142,7 @@
                 </div>
                 <div class="col">
                 <br>Slot 15<br>
-                Valtox Logistics
+                Pries Logistics
                 </div>
                 <div class="col">
                 <br>Slot 16<br>
