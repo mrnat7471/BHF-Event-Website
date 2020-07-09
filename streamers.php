@@ -25,8 +25,8 @@
                         </div>
                         <div class="col-sm">
                         <h4>bluedk</h4>
-                        <a href="https://twitch.tv/bhfevent" target="_blank"><div style="position: relative; left: 0; top: 0;">
-                                <img src=".\img\streamers_icons\bhf.png" class="natlogo"/>
+                        <a href="https://www.twitch.tv/dansk_train_sim" target="_blank"><div style="position: relative; left: 0; top: 0;">
+                                <img src="https://images.nathan7471.xyz/qydmp3hd.png" class="natlogo"/>
                             </div></a>
                         </div>
                         <div class="col-sm">
