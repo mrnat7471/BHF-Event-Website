@@ -8,9 +8,8 @@
         </div>  
         <div class="our_Twitch">
             <h1>Our Official Twitch Channel</h1>   
-            <a href="https://twitch.tv/bhfevent" target="_blank"><div style="position: relative; left: 0; top: 0;">
-                <img src="https://static-cdn.jtvnw.net/previews-ttv/live_user_ooclanoo-640x360.jpg" class="bhfback"/>
-                <img src=".\img\streamers_icons\bhf.png" class="bhflogo"/>
+            <a href="https://twitch.tv/bhfevent" target="_blank"><div">
+                <img src=".\img\streamers_icons\bhf.png" class="natlogo"/>
             </div></a> 
         </div>
         </div>
@@ -19,24 +18,33 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm">
-                            <p>Shay_Gaming</p>
-                            <a href="https://twitch.tv/bhfevent" target="_blank"><div style="position: relative; left: 0; top: 0;">
-                                <img src="https://static-cdn.jtvnw.net/previews-ttv/live_user_ooclanoo-640x360.jpg" class="bhfback"/>
-                                <img src=".\img\streamers_icons\shay.jpg" class="bhflogo"/>
+                            <h4>Shay_Gaming</h4>
+                            <a href="https://www.twitch.tv/shay_gaming" target="_blank"><div style="position: relative; left: 0; top: 0;">
+                                <img src="https://images.nathan7471.xyz/9swfui4o.jpg" class="natlogo"/>
                             </div></a>
                         </div>
                         <div class="col-sm">
-                        <p>bluedk</p>
+                        <h4>bluedk</h4>
                         <a href="https://twitch.tv/bhfevent" target="_blank"><div style="position: relative; left: 0; top: 0;">
-                                <img src="https://static-cdn.jtvnw.net/previews-ttv/live_user_ooclanoo-640x360.jpg" class="bhfback"/>
-                                <img src=".\img\streamers_icons\bhf.png" class="bhflogo"/>
+                                <img src=".\img\streamers_icons\bhf.png" class="natlogo"/>
                             </div></a>
                         </div>
                         <div class="col-sm">
-                        <p>t0p0tv</p>
-                        <a href="https://twitch.tv/bhfevent" target="_blank"><div style="position: relative; left: 0; top: 0;">
-                                <img src="https://static-cdn.jtvnw.net/previews-ttv/live_user_ooclanoo-640x360.jpg" class="bhfback"/>
-                                <img src=".\img\streamers_icons\bhf.png" class="bhflogo"/>
+                            <h4>t0p0tv</h4>
+                            <a href="https://twitch.tv/t0p0tv" target="_blank"><div style="position: relative; left: 0; top: 0;">
+                                <img src="https://images.nathan7471.xyz/iwljotc9.png" class="natlogo"/>
+                            </div></a>
+                        </div>
+                        <div class="col-sm">
+                            <h4>avxlightning</h4>
+                            <a href="https://twitch.tv/avxlightning" target="_blank"><div style="position: relative; left: 0; top: 0;">
+                                <img src="https://images.nathan7471.xyz/hzh6qzpz.png" class="natlogo"/>
+                            </div></a>
+                        </div>
+                        <div class="col-sm">
+                            <h4>cyberskilzz</h4>
+                            <a href="https://www.twitch.tv/cyberskilzz_1" target="_blank"><div style="position: relative; left: 0; top: 0;">
+                                <img src="https://images.nathan7471.xyz/9zzwayzg.png" class="natlogo"/>
                             </div></a>
                         </div>
                     </div>
@@ -46,36 +54,11 @@
 
 
     <?php include("./Templates/footer.php") ?>
-    <style>
-    .natback
-    {
-      position: relative;
-      top: 0;
-      left: 0;
-      max-height: 250px;
-    }
+<style>
     .natlogo
     {
         border-radius: 50%;
-        max-height: 70px;
-      position: absolute;
-      top: 15%;
-      left: 15%;
-    }
-    .bhfback
-    {
-      position: relative;
-      top: 0;
-      left: 0;
-      max-height: 250px;
-    }
-    .bhflogo
-    {
-        border-radius: 50%;
-        max-height: 90px;
-      position: absolute;
-      top: 30%;
-      left: 47.7%;
+        max-height: 180px;
     }
   </style>
     </body>

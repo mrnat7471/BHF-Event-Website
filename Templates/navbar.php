@@ -33,7 +33,7 @@
                     <li class="nav-item"><a href="gallery" class="nav-link text-uppercase font-weight-bold">Gallery</a></li>
                     <li class="nav-item"><a href="truckfest" class="nav-link text-uppercase font-weight-bold">Truckfest</a></li>
                     <li class="nav-item"><a href="routes" class="nav-link text-uppercase font-weight-bold">Routes</a></li>
-                    <li class="nav-item"><a href="streamers" class="nav-link text-uppercase font-weight-bold">Streamers</a></li>
+                    <li class="nav-item" ><a href="streamers" class="nav-link text-uppercase font-weight-bold">Streamers<p style="margin-left: 25px!important;" class="live">LIVE</p></a></li>
                     <li class="nav-item"><a href="donate" class="nav-link text-uppercase font-weight-bold">Donate</a></li>
                 </ul>
             </div>
@@ -79,6 +79,13 @@
 
 .navbar.active .navbar-brand {
     color: #FFFFFF;
+}
+.live {
+    border-style: solid;
+    border-color: red;
+    width: 50px;
+    color: red;
+    display: none;
 }
 
 
