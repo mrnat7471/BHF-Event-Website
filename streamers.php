@@ -11,7 +11,7 @@
             <a href="https://twitch.tv/bhfevent" target="_blank"><div">
                 <img src=".\img\streamers_icons\bhf.png" class="natlogo"/>
             </div></a> 
-            <iframe style="padding-top: 10px;" src="https://player.twitch.tv/?channel=bhfevent&parent=www.bhfevent.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+            <iframe style="padding-top: 10px;" src="https://player.twitch.tv/?channel=bhfevent&parent=bhfevent.xyz" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
         </div>
         </div>
             <div class="partned_Streamers">
