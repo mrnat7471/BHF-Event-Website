@@ -85,7 +85,6 @@
     border-color: red;
     width: 50px;
     color: red;
-    display: none;
     text-align: center;
 }
 
