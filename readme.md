@@ -1,3 +1,7 @@
+# BHF Event Website
+
+This website was created in partnership with Arran Hodges.
+
 Change Commits:
 
 0.1.1.2
